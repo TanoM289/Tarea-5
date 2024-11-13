@@ -1,0 +1,39 @@
+/* Reset de márgenes y paddings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #ff4747;
+}
+
+/* Estilos del pie de página */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: rgb(58, 207, 207);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.price {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #2d2d2d;
+}

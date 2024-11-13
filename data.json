@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Taco al Pastor",
+        "description": "Delicioso taco con carne al pastor, preparada con adobo y asada en trompo. Servido con piña, cebolla, cilantro y salsa.",
+        "image": "TacoPastor.jpg",
+        "cost": 50.00
+    },
+    {
+        "title": "Taco de Carnitas",
+        "description": "Taco relleno de carnitas de cerdo, desmenuzadas y cocinadas a fuego lento. Acompañado de cebolla, cilantro y salsa verde.",
+        "image": "TacoCarnitas.jpg",
+        "cost": 45.00
+    },
+    {
+        "title": "Taco de Bistec",
+        "description": "Taco con carne de bistec asada a la parrilla, acompañada de cebolla, cilantro y salsa al gusto.",
+        "image": "TacosBistec.jpg",
+        "cost": 55.00
+    },
+    {
+        "title": "Taco de Pollo",
+        "description": "Taco con pechuga de pollo asada, acompañada de cebolla, cilantro y salsa roja o verde.",
+        "image": "TacosPollo.jpg",
+        "cost": 40.00
+    },
+    {
+        "title": "Taco de Suadero",
+        "description": "Carne de suadero cocinada a la perfección, servida con cebolla, cilantro y salsa de tu preferencia.",
+        "image": "taco-de-suadero.jpg",
+        "cost": 60.00
+    },
+    {
+        "title": "Taco de Longaniza",
+        "description": "Taco con longaniza de cerdo, jugosa y bien sazonada. Acompañado de cebolla, cilantro y salsa.",
+        "image": "TacosDeLonganiza.jpg",
+        "cost": 50.00
+    },
+    {
+        "title": "Taco de Chicharrón Prensado",
+        "description": "Taco con chicharrón prensado, crujiente y sabroso, servido con cebolla, cilantro y salsa.",
+        "image": "TacosChicharron.jpg",
+        "cost": 55.00
+    },
+    {
+        "title": "Taco de Tripa",
+        "description": "Taco con carne de tripa bien frita y crujiente, acompañada de cebolla, cilantro y salsa.",
+        "image": "TacoDeTripa.jpg",
+        "cost": 60.00
+    },
+    {
+        "title": "Quesadilla de Pastor",
+        "description": "Quesadilla rellena de carne al pastor, con queso derretido y acompañada de cebolla, cilantro y salsa.",
+        "image": "QuesadillaPastor.jpg",
+        "cost": 65.00
+    },
+    {
+        "title": "Torta de Asada",
+        "description": "Torta rellena de carne asada jugosa, acompañada de cebolla, aguacate, cilantro y salsa al gusto. ¡Un manjar en cada mordida!",
+        "image": "TortaAsada.jpg",
+        "cost": 75.00
+    }
+]
+
+  
+  
